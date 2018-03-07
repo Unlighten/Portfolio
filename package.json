@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unlighten/portfolio.git"
+  },
+  "author": "Aaron Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unlighten/portfolio/issues"
+  },
+  "homepage": "https://github.com/Unlighten/portfolio#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
