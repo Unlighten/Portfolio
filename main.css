@@ -264,5 +264,13 @@ html {
 
   }
 
+  @media (max-width: 724px) and (max-height: 450px) {
+    .me {
+      width: 20%;
+      height: 45%;
+      border-radius: 100%;        
+    }
+  }
+
 
   /* ============================================================= */
