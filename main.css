@@ -60,6 +60,14 @@ html {
     color: white;
   }
 
+  .project:hover {
+    opacity: 0.6;
+  }
+
+  .fa:hover {
+    opacity: 0.6
+  }
+
   @media all and (min-width: 800px) {
     .aside-1 { order: 1; } 
     .main    { order: 2; }
@@ -156,7 +164,7 @@ html {
       }
 
     .me {
-        width: 50%;
+        width: 40%;
         height: 30%;
         align-self: center;
         border-radius: 100%;
