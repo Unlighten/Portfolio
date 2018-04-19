@@ -61,11 +61,17 @@ html {
     opacity: 0.6
   }
 
-  .email {
+  .erlinkContainer {
+    flex: 1;
+    margin-right: 50%;
+    flex-direction: row;
+  }
+
+  .erlink {
     text-decoration: underline;
   }
 
-  .email:hover {
+  .erlink:hover {
     text-decoration: underline;
     opacity: 0.6;
   }
